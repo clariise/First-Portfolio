@@ -60,14 +60,14 @@ function Hero() {
                 Let's talk
               </a>
               <a
-                href="https://docs.google.com/document/d/1ieIjE6jOXKS6X_BjYg_oRwQfiEDbhyBi/edit"
+                href="https://drive.google.com/file/d/1q3t_O23MQ7ZeGJTYQOlzDlkV466HFJTr/view"
                 target="_blank"
                 className="flex text-blue-500 font-bold hover:shadow-2xl lg:mx-0 md:mx-auto duration-300 hover:shadow-blue-500/50 w-[179px] border-solid border-2 border-blue-500 rounded-lg items-center gap-3 justify-center py-2 "
               >
                 <img width={24} src={download} alt="download" />
                 Resume
               </a>
-            </div>  
+            </div>
           </div>
           <div
             data-aos="fade-up-left"
